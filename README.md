@@ -37,10 +37,10 @@ pip install pydantic-ai asyncpg httpx pymupdf
 ```
 
 **Get the DB connection string**
-postgresql://doadmin:AVNS_JVq8HWOZIpDGr0MCIUb@db-postgresql-ams3-72754-do-user-4099161-0.k.db.ondigitalocean.com:25060/defaultdb?sslmode=require 
+""
 
 **Get the OpenAI API Key**  
-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
+""
 
 ## The Code Details 
 
