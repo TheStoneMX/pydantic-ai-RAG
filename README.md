@@ -6,11 +6,12 @@ We will not create another agent that can do RAG (Retrieval-Augmented Generation
 
 ## Pre-Requisites
 
-To get started you will need a PostgreSQL Database instance, you can use the one from the previous tutorial or create a new [one here on Digital Ocean](https://m.do.co/c/7d9a2c75356d ), then get the connection string to use in the code.
-You will also need an [OpenAI API Key](https://platform.openai.com/)
-IDE - Integrated Development Environment - I use cursor, you can [download for free here](https://www.cursor.com/)
-Python 3.9+ to work with PydanticAI
-An online PDF document, of if you have the document on yoru computer you can get online storage eg. Spaces Object Storage from digital ocean and upload your document there. Alternatively you can use this document we have already uploaded here: [https://skolo-ai-agent.ams3.cdn.digitaloceanspaces.com/pydantic/the_seven_realms.pdf](https://skolo-ai-agent.ams3.cdn.digitaloceanspaces.com/pydantic/the_seven_realms.pdf)
+To get started you will need: 
+* A PostgreSQL Database instance, you can use the one from the previous tutorial or create a new [one here on Digital Ocean](https://m.do.co/c/7d9a2c75356d ), then get the connection string to use in the code.
+* You will also need an [OpenAI API Key](https://platform.openai.com/)
+* IDE - Integrated Development Environment - I use cursor, you can [download for free here](https://www.cursor.com/)
+* Python 3.9+ to work with PydanticAI
+* An online PDF document, of if you have the document on yoru computer you can get online storage eg. Spaces Object Storage from digital ocean and upload your document there. Alternatively you can use this document we have already uploaded here: [https://skolo-ai-agent.ams3.cdn.digitaloceanspaces.com/pydantic/the_seven_realms.pdf](https://skolo-ai-agent.ams3.cdn.digitaloceanspaces.com/pydantic/the_seven_realms.pdf)
 
 ## Get Started
 
