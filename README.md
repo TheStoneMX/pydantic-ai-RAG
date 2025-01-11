@@ -261,6 +261,7 @@ To interact with our agent, we will use the streamlit application below:
 
 Install Streamlit: 
 ```sh
+pip install streamlit
 ```
 
 
