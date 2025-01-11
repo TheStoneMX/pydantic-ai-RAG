@@ -324,6 +324,12 @@ st.write("✨ Powered by [Skolo Online](https://skolo.online) and Pydantic AI")
 
 ```
 
+To run the application
+```
+streamlit run app.py
+```
+
+
 
 
 
