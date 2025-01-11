@@ -10,7 +10,7 @@ To get started you will need a PostgreSQL Database instance, you can use the one
 You will also need an [OpenAI API Key](https://platform.openai.com/)
 IDE - Integrated Development Environment - I use cursor, you can [download for free here](https://www.cursor.com/)
 Python 3.9+ to work with PydanticAI
-An online PDF document, of if you have the document on yoru computer you can get online storage eg. Spaces Object Storage from digital ocean and upload your document there. Alternatively you can use this document we have already uploaded here: [https://bertha.ams3.digitaloceanspaces.com/The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf](https://bertha.ams3.digitaloceanspaces.com/The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf)
+An online PDF document, of if you have the document on yoru computer you can get online storage eg. Spaces Object Storage from digital ocean and upload your document there. Alternatively you can use this document we have already uploaded here: [https://skolo-ai-agent.ams3.cdn.digitaloceanspaces.com/pydantic/the_seven_realms.pdf](https://skolo-ai-agent.ams3.cdn.digitaloceanspaces.com/pydantic/the_seven_realms.pdf)
 
 ## Get Started
 
